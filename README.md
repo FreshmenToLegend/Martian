@@ -14,6 +14,6 @@ print(blob.Analyse(0))
 ```
 ## Function for each .py file
 NLP.py: for Natual Language Processing working.  
-collection: collected ten ML/DL functions in
+collection: collected ten ML/DL functions in  
 class "Kit"  
 datavisualizasion.py: For data visualizasion  
