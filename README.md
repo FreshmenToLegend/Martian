@@ -6,7 +6,6 @@ You can use code like this:
 git clone https://github.com/FreshmenToLegend/Martian.git
 cd Martian
 pip install TextBlob SnowNLP
-Martian.UI.exe
 ```
 ```python  
 import Martian.NLP as nlp  
